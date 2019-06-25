@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#181717</color>
+    <color name="colorPrimaryDark">#181717</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWindowBackgroundWhite">#FFFAFAFA</color>
+    <color name="colorWindowBackgroundBlack">#FF263340</color>
+
+    <!--Text 字体颜色-->
+    <color name="colorTextThemeMain">#FFFFAE00</color>
+
+    <!--输入框颜色-->
+    <color name="colorInputShare">#FFCCCCCC</color>
+
+    <color name="colorSelectText">#FFB5B5B5</color>
+
+</resources>

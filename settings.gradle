@@ -1,0 +1,26 @@
+//公共库模块
+include ':lib_common'
+project(':lib_common').projectDir = new File('common_lib/lib_common')
+
+include ':lib_http'
+project(':lib_http').projectDir = new File('common_lib/lib_http')
+
+include ':lib_db'
+project(':lib_db').projectDir = new File('common_lib/lib_db')
+
+include ':lib_wedgit'
+project(':lib_wedgit').projectDir = new File('common_lib/lib_wedgit')
+
+include ':lib_res'
+project(':lib_res').projectDir = new File('common_lib/lib_res')
+
+// 功能库模块
+include ':module_login'
+project(':module_login').projectDir = new File('modules/module_login')
+
+include ':module_menu'
+project(':module_menu').projectDir = new File('modules/module_menu')
+
+
+//APP壳
+include ':custom_app'

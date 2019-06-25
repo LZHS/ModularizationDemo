@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mTooBar" type="id"/>
+    <item name="mTextTitle" type="id"/>
+    <item name="mTextLeftBack" type="id"/>
+    <item name="mTextRightShow" type="id"/>
+    <item name="mTooBarContent" type="id"/>
+</resources>

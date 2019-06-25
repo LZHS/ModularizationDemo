@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.lzhs.module_menu">
+
+    <application>
+        <activity android:name=".activitys.MenuActivity"
+                  android:launchMode="singleTop"/>
+        <activity android:name=".activitys.SiteActivity"
+                  android:launchMode="singleTask"/>
+    </application>
+
+</manifest>
